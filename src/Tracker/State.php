@@ -368,7 +368,7 @@ class State {
             $expires = 0;
         }
 		
-		$path .= '; SameSite=lax';
+		//$path .= '; SameSite=lax';
 		
         setcookie($cookie_name, $cookie_value, $expires, $path, $domain);
     }
