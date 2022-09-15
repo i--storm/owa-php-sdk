@@ -1,5 +1,5 @@
 {
-    "name": "open-web-analytics/owa-php-sdk",
+    "name": "istorm/owa-php-sdk",
     "description": "The open source analytics framework.",
     "keywords": ["open-web-analytics","owa","web-analytics","analytics"],
     "homepage": "https://www.openwebanalytics.com",
