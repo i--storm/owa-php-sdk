@@ -1150,7 +1150,7 @@ class TrackerClient extends OwaClient {
 		sdk::debug('implement logEvent method');
 
 		$conf = [
-			
+			'decode_content' => false,
 			'base_uri' => $this->getSetting('instance_url')
 		];
 		
